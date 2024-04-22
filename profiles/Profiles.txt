@@ -1,1 +1,23 @@
+Name of the student:Sreenivasulu Abhitha
+Learning Track: Developer
+Project Name: Lease Management
+Trailhead Profile:https://www.salesforce.com/trailblazer/abhithasreenivasalu 
+Developer org Username:abhithanov30@gdctirupathi.com
+Developer Org Password:Gayatri@123
+Position:team leader
 
+Name of the student: Muni Poojitha Sathyala
+Learning Track: Developer
+Project Name: Lease Management
+Trailhead Profile:https://www.salesforce.com/trailblazer/sathyalamunipoojitha 
+Developer org Username:sathyalapoojitha@gdctirupati.com
+Developer Org Password:Gayatri@123
+Position:team member
+
+Name of the student: Muni Bhavya Pasupuleti
+Learning Track: Developer
+Project Name: Lease Management
+Trailhead Profile:https://www.salesforce.com/trailblazer/munibhavyapasupuleti3500 
+Developer org Username:munibhavyamunibhavya@gdctirupati.com
+Developer Org Password:Gayatri@123
+Position:team member
